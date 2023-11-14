@@ -1,0 +1,18 @@
+@font-face {
+    font-family: miztix;
+    src: url(../font/Miztix.ttf);
+}
+
+@font-face {
+    font-family: potras;
+    src: url(../font/Potra.ttf);
+}
+
+@font-face {
+    font-family: iransans;
+    src: url(../font/iransans/A-Iranian-Sans/Iranian\ Sans.ttf);
+}
+
+body {
+    font-family: iransans;
+}

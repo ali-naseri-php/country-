@@ -1,0 +1,40 @@
+/* start defult styles  */
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    line-height: 1.6;
+    font-size: 1.6rem;
+    font-family: var(--primary-font);
+}
+
+*::after,
+*::before {
+    outline: none;
+    box-sizing: unset;
+}
+
+a {
+    text-decoration: none;
+    color: var(--Dark-color);
+    transition: all 400ms ease;
+    list-style-type: none;
+}
+
+a:hover {
+    color: rgb(35, 36, 36);
+}
+
+i {
+    user-select: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+/* finish defult styles  */
